@@ -1,4 +1,4 @@
-<h3>Olá, eu sou o André Uchôa! Seja bem vindo ao meu perfil do GitHub!👨‍💻👋</h3> 
+<h3>Olá, seja bem vindo. Eu me chamo André Vasconcelos.</h3> 
 
 <div align="center">
   <a href="https://github.com/Andre-Uchoa">
